@@ -1,6 +1,6 @@
 <img src="./image/image.png">
  
-### Hi there 👋, I'm Burak Sinan YORULMAZ. I'm trying to be Full Stack Web Developer. Welcome to my gh page! <br>
+### Hi there 👋, I'm Burak Sinan YORULMAZ. I'm trying to be Full Stack Developer. Welcome to my gh page! <br>
  
 🔭 *Currently* :  I am learning new information about coding while taking my Dutch language course. Also I know Python... <br>
 
